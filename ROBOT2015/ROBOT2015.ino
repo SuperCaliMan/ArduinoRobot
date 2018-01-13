@@ -1,4 +1,9 @@
-
+/* Autore: Caliman Alberto Copyright 2015
+ * Titolo: Arduino roboto Visual Basic 
+ * 
+ * Description: 
+ *  
+*/
 // Motor 1
 int dir1PinA = 2;
 int dir2PinA = 3;
