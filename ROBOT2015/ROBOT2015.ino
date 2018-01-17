@@ -51,7 +51,7 @@ void loop() {
     digitalWrite(dir2PinB, HIGH);
     break;
     
-    case '3': //backword
+    case '3': //back
     analogWrite(speedPinA, 255);
     digitalWrite(dir1PinA, HIGH);
     digitalWrite(dir2PinA, LOW);
