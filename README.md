@@ -5,7 +5,7 @@ You can control a simple robot with your pc, by bluethoot
 ## Getting Started
 
 * Clone repository 
-* build [project](link wirediagram)
+* Build [project](link wirediagram)
 
 ### Prerequisites
 
