@@ -2,6 +2,9 @@
 
 You can control a simple robot with your pc, by bluethoot
 
+![Screenshot](Photo/arduino-robot-15.png)
+![Screenshot](Photo/arduino-robot-22.png)
+
 ## Getting Started
 
 * Clone repository 
