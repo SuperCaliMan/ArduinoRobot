@@ -35,7 +35,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Connect your terminal with arduino, send:
+A --> to go forward
 
 ### Break down into end to end tests
 
@@ -69,10 +70,4 @@ Give an example
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
