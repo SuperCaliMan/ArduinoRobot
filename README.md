@@ -27,7 +27,7 @@ Connect your terminal with arduino and send:
 ## Built With
 
 * [Arduino](https://www.arduino.cc/) - The main board
-* HC-06 - use to dialog with computer
+* HC-06 - use to dialog between arduino and pc
 
 
 ## Authors
