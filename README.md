@@ -12,7 +12,7 @@ You can control a simple robot with your pc, by bluethoot
 
 ### Prerequisites
 
-Do you have device bluetooth for your pc, for dialog between pc and Arduino
+You have device bluetooth for your pc, to dialog between pc and Arduino
 
 
 ## Running
