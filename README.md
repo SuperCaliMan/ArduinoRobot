@@ -1,4 +1,4 @@
-# Arduino Robot Bluethoot
+# Arduino Robot Bluetooth
 
 You can control a simple robot with your pc, by bluethoot
 
@@ -8,7 +8,7 @@ You can control a simple robot with your pc, by bluethoot
 ## Getting Started
 
 * Clone repository 
-* Build [project](link wirediagram)
+* Build [project](https://easyeda.com/Cali/ArduinoRobotBT-37a42a51a4864142bf4c3ce0ec6453b9)
 
 ### Prerequisites
 
