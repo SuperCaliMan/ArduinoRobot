@@ -1,6 +1,6 @@
 # Arduino Robot Bluetooth
 
-You can control a simple robot with your pc, by bluethoot
+You can control a simple robot with your pc, by bluetooth
 
 ![Screenshot](Photo/arduino-robot-15.png)
 ![Screenshot](Photo/arduino-robot-22.png)
